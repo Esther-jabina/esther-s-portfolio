@@ -1,0 +1,23 @@
+{
+  "overview": "A beautiful, modern personal portfolio website for Esther Jabina — a web developer from Chennai. Features a hero section, about, skills, education timeline, internship experience, project gallery, certifications, and contact section with smooth animations.",
+  "features": [
+    "Hero section with name, title, and call-to-action",
+    "Skills showcase with visual cards",
+    "Education timeline",
+    "Internship experience section",
+    "Project gallery with hover effects",
+    "Certifications section",
+    "Contact section with clickable email and phone",
+    "Smooth scroll animations",
+    "Mobile-responsive design"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "personal",
+    "web-developer",
+    "resume",
+    "showcase"
+  ],
+  "last_updated": "2026-04-16T09:42:35.384Z"
+}
